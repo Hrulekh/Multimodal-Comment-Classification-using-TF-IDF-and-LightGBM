@@ -126,21 +126,6 @@ The results indicate that:
 
 ---
 
-## Project Structure
-
-```text
-project/
-│
-├── notebooks/
-│   └── Comment_Classification.ipynb
-│
-├── images/
-│   └── eda_charts.png
-│
-├── requirements.txt
-├── README.md
-└── submission.csv
-```
 
 ## Future Improvements
 
@@ -152,7 +137,7 @@ project/
 
 ## Author
 
-Nandu
+Hrulekh Nandan
 
-IIT Madras Online Degree Program – Data Science
+IIT Madras – BS Data Science | VITAP - Computer Science and Eng
 Machine Learning | NLP | Applied AI
